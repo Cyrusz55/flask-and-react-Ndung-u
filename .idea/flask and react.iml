@@ -6,5 +6,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (flask and react)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
   </component>
 </module>
